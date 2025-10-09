@@ -16,8 +16,9 @@
 
 - 오전
     - 바티칸 패스트 트랙 투어 - https://experiences.myrealtrip.com/products/3415360
+    - 집합장소: [OKAIDI ROMA OTTAVIANO](https://maps.app.goo.gl/rBV15PDZwYgfBoP27)
 - 저녁 (18시 50분)
-    - 로마 야경투어 - https://experiences.myrealtrip.com/products/3430514
+    - 로마 야경투어 - 미정
 - 숙박
     - iQ 호텔 (https://maps.app.goo.gl/8z9D8Zhcty18vu2p8)
 
@@ -27,9 +28,15 @@
 
 (https://maps.app.goo.gl/FNLqPaCLJgrzZSZ88)
 
-- 콜로세움
-- 트레비분수
-- 스페인광장
+- 오전 식사 : [트러플바게뜨 Truffle Crostino / CiPASSO](https://maps.app.goo.gl/xMpnCsqEaPeMJ94s8)
+- 보르게세 공원 (Galleria Borghese)
+- 판테온 신전 (Pantheon)
+  - 점심 식사 : [Osteria da Fortunata - Pantheon](https://maps.app.goo.gl/a2yn8x9dd92k8gYNA)
+- 트레비분수 (Trevi Fountain, Piazza di Trevi)
+- 스페인계단 (Spanish Steps)
+- 스페인광장 (Piazza di Spagna)
+- 콜로세움 (Colosseum)
+- 저녁식사 : [Cacio E Pepe까르보나라 Osteria del Velodromo Vecchio](https://maps.app.goo.gl/DNqzRjc3ka8o788Q6)
 
 ---
 
@@ -37,26 +44,22 @@
 
 (https://maps.app.goo.gl/eyXcJ9mNyjU9paFQ6)
 
-- 나폴리 피자 (다 미켈레 - L'Antica Pizzeria da Michele)
-- 나폴리 카페 (카페 감부리누스 - Caffè Gambrinus)
-- 산텔모 성
-- 플레비시토 광장
-- 나폴리 항구
-- Galleria Umberto
-
-- 시뇨리아 광장
-- 단테의 집
-- 베키오다리
-- 미켈란젤로 광장
-- 미켈란젤로 언덕
-- 두오모 성당 (예약 필수)
-
+- 이동 : 이딸로 9시 30분 테르미니 역에서 출발 -> 나폴리 역(Stazione di Napoli Centrale) 도착 
+- 나폴리 피자 [다 미켈레 - L'Antica Pizzeria da Michele](https://maps.app.goo.gl/Qrbwfv3UwF3h34rv5)
+- 움베르토 1세 아케이드 (Galleria Umberto I)
+- 나폴리 카페 [카페 감부리누스 - Caffè Gambrinus](https://maps.app.goo.gl/ZyzqXovovuQcm8Ce9)
+- 나폴리 간식 [피자튀김 - Con mollica o senza da Donato](https://maps.app.goo.gl/G5GJgnnayBuPePJB6)
+- 플레비시토 광장 (Piazza del Plebiscito)
+- 나폴리 항구 (Port of Naples)
+- 산텔모 성 (Castel Sant'Elmo)
+- 저녁식사 : ????
+- 돌아오는 거 : 이딸로 18시 35분 -> 19시 46분 로마 도착
 ---
 
 ### **📸 Day 5 - 11/17 (월) [남부 지역 이동]**
 
 - 남부 지역 이동
-- 남주 지역 관광 및 숙박
+- 남부 지역 관광 및 숙박
 
 ---
 
@@ -66,11 +69,16 @@
     - 남부지역 관광
     - 피렌체 이동
 - 오후
+    - 중앙 시장
+      - 점심 간식 : [곱창 버거 Da Nerbone](https://maps.app.goo.gl/jqrBUVFX2SxfWpkQ9)
+      - 점심 메뉴 : [레스토랑 Antico Ristorante Paoli 1827](https://maps.app.goo.gl/xoz9r75k7qVmRHh27)
     - 시뇨리아 광장
     - 단테의 집
     - 베키오 다리
-    - 미켈란젤로 광장
-    - 미켈란제로 언덕
+    - 미켈란젤로 광장 (베키오 다리 지나서 택시?)
+    - 미켈란젤로 언덕
+    - 저녁 메뉴 : [스테이크, 트러플파스타 Golden View Firenze](https://maps.app.goo.gl/gR1CN56RNom4Ct7w6)
+    - 스페어 식당 : 
 
 ---
 
@@ -79,9 +87,11 @@
 - 오전 (피사 이동)
   - 기울어진 탑
   - 두오모 성당
+  - 점심 메뉴 : ????
 - 오후 (피렌체 이동)
   - 스냅 촬영
   - 자유 시간
+  - 저녁 메뉴 : [티본 스테이크 Trattoria Verdi Firenze](https://maps.app.goo.gl/z9JoDTjfgF8eZfmHA)
 
 ---
 
@@ -102,6 +112,7 @@
     - 부라노 섬 스냅 → [베네베네 스냅](https://experiences.myrealtrip.com/products/3859831)
     - 부라노 종탑
 - 베네치아 본섬
+- 저녁식사 : [Corte Sconta](https://maps.app.goo.gl/WjEXmJds9CCAYeQJ6)
 
 ---
 
