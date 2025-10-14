@@ -37,6 +37,7 @@
 - 스페인광장 (Piazza di Spagna)
 - 콜로세움 (Colosseum)
 - 포로 로마노 (Foro Romano)
+- 팔라티노 언덕 (Colle Palatino)
 - 저녁식사 : [Cacio E Pepe까르보나라 Osteria del Velodromo Vecchio](https://maps.app.goo.gl/DNqzRjc3ka8o788Q6)
 
 ---
