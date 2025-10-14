@@ -36,6 +36,7 @@
 - 스페인계단 (Spanish Steps)
 - 스페인광장 (Piazza di Spagna)
 - 콜로세움 (Colosseum)
+- 포로 로마노 (Foro Romano)
 - 저녁식사 : [Cacio E Pepe까르보나라 Osteria del Velodromo Vecchio](https://maps.app.goo.gl/DNqzRjc3ka8o788Q6)
 
 ---
