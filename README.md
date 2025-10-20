@@ -28,17 +28,23 @@
 
 (https://maps.app.goo.gl/FNLqPaCLJgrzZSZ88)
 
-- 오전 식사 : [트러플바게뜨 Truffle Crostino / CiPASSO](https://maps.app.goo.gl/xMpnCsqEaPeMJ94s8)
+- 트레비분수 (Trevi Fountain, Piazza di Trevi) (만약 새벽 일찍 나온다면)
+- 오전 식사 : ???
+- 콜로세움 (Colosseum)
+- 콘스탄티누스 개선문 (Arco di Costantino)
+- 포리 임페리알리 제국로 (Fori Imperiali)
+- 포로 로마노 (Foro Romano)
+- 팔라티노 언덕 (Colle Palatino)
 - 보르게세 공원 (Galleria Borghese)
+- 캄피톨리오 언덕 (Piazza Campidoglio)
+- 베네치아 광장 (Piazza Venezia)
 - 판테온 신전 (Pantheon)
   - 점심 식사 : [Osteria da Fortunata - Pantheon](https://maps.app.goo.gl/a2yn8x9dd92k8gYNA)
 - 트레비분수 (Trevi Fountain, Piazza di Trevi)
 - 스페인계단 (Spanish Steps)
 - 스페인광장 (Piazza di Spagna)
-- 콜로세움 (Colosseum)
-- 포로 로마노 (Foro Romano)
-- 팔라티노 언덕 (Colle Palatino)
 - 저녁식사 : [Cacio E Pepe까르보나라 Osteria del Velodromo Vecchio](https://maps.app.goo.gl/DNqzRjc3ka8o788Q6)
+- 스페어 : [트러플바게뜨 Truffle Crostino / CiPASSO](https://maps.app.goo.gl/xMpnCsqEaPeMJ94s8)
 
 ---
 
@@ -78,7 +84,7 @@
 - 포지타노 -> 아말피 (패리 or 아말피에서 끊은 SITA버스로 돌아오기)
 - 저녁식사 : ???
   - **추천 디너: Eolo Restaurant 해안 절벽 뷰에서 즐기는 스테키니(생선 스테이크)와 현지 와인.**
-- 아말피 해변 야경 산책
+- 아말피 해변 야경 산]
 ---
 
 ### **🚤 Day 6 - 11/18 (화) [살레르노에서 피렌체 이동]**
@@ -87,15 +93,16 @@
     - 아말피 -> 살레르노 이동 (Uber or 패리 or 전날 끊은 SITA버스로 돌아오기)
     - 살레르노 -> 피렌체 이동 (이딸로)
 - 오후
-    - 피렌체 체크인 [Air BnB](https://www.airbnb.com/l/72qh4EF9)
+    - 피렌체 체크인 [Air BnB](https://www.airbnb.co.kr/rooms/49709468?viralityEntryPoint=1&unique_share_id=53CE79B2-DB07-40E6-8054-1DB2CCFB2724&slcid=3f43bbdeea62490a8df78c3749936bbe&s=76&adults=1&slug=iJAwdzh7&source_impression_id=p3_1760966509_P3pURAUT9nPXK8iq)
     - 중앙 시장
       - 점심 간식 : [곱창 버거 Da Nerbone](https://maps.app.goo.gl/jqrBUVFX2SxfWpkQ9)
       - 점심 메뉴 : [레스토랑 Antico Ristorante Paoli 1827](https://maps.app.goo.gl/xoz9r75k7qVmRHh27)
-    - 시뇨리아 광장
-    - 단테의 집
-    - 베키오 다리
-    - 미켈란젤로 광장 (베키오 다리 지나서 택시?)
-    - 미켈란젤로 언덕
+    - 아카데미아 미술관 (Galleria dell’Accademia di Firenze) 15:15~15:30 입장
+    - 시뇨리아 광장 (Piazza della Signoria)
+    - 단테의 집 (Museo Casa di Dante)
+    - 두오모 광장 (Piazza del Duomo)
+    - 베키오 다리 (Ponte Vecchio)
+        - 가죽 쇼핑
     - 저녁 메뉴 : [스테이크, 트러플파스타 Golden View Firenze](https://maps.app.goo.gl/gR1CN56RNom4Ct7w6)
     - 스페어 식당 : 
 
@@ -108,9 +115,12 @@
   - 두오모 성당
   - 점심 메뉴 : ????
 - 오후 (피렌체 이동)
-  - 스냅 촬영
-  - 자유 시간
-  - 저녁 메뉴 : [티본 스테이크 Trattoria Verdi Firenze](https://maps.app.goo.gl/z9JoDTjfgF8eZfmHA)
+  - 스냅 촬영 : [여행일기](https://experiences.myrealtrip.com/products/3427150)
+    - 만나는 장소 : 산티시마 안눈치아타광장(P.za della SS. Annunziata)
+    - 미켈란젤로 광장 (베키오 다리 지나서 택시?)
+    - 미켈란젤로 언덕
+  - 휴식 및 식사
+    - 저녁 메뉴 : [티본 스테이크 Trattoria Verdi Firenze](https://maps.app.goo.gl/z9JoDTjfgF8eZfmHA)
 
 ---
 
