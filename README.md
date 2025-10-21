@@ -60,10 +60,10 @@
 - 나폴리 피자 [다 미켈레 - L'Antica Pizzeria da Michele](https://maps.app.goo.gl/Qrbwfv3UwF3h34rv5)
 - 움베르토 1세 아케이드 (Galleria Umberto I)
 - 나폴리 카페 [카페 감부리누스 - Caffè Gambrinus](https://maps.app.goo.gl/ZyzqXovovuQcm8Ce9)
-- 나폴리 간식 [피자튀김 - Con mollica o senza da Donato](https://maps.app.goo.gl/G5GJgnnayBuPePJB6)
 - 플레비시토 광장 (Piazza del Plebiscito)
 - 나폴리 항구 (Port of Naples)
 - 산텔모 성 (Castel Sant'Elmo)
+- 나폴리 간식 [피자튀김 - Con mollica o senza da Donato](https://maps.app.goo.gl/G5GJgnnayBuPePJB6)
 - 저녁식사 : ????
 - 돌아오는 거 : 이딸로 18시 35분 -> 19시 46분 로마 도착
 ---
