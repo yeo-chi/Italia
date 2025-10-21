@@ -52,9 +52,9 @@
 
 ---
 
-### **🚄 Day 4 - 11/16 (일) [나폴리 당일 치기]**
-
-(https://maps.app.goo.gl/eyXcJ9mNyjU9paFQ6)
+### **🚄 Day 4 - 11/16 (일) 나폴리 당일치기**
+[구글지도](https://maps.app.goo.gl/gsQiYQjsk1pxhrPo6?g_st=ac)
+[투어루트](https://maps.app.goo.gl/QZDnRx7vs6z2EkYg6?g_st=ac)
 
 - 이동 : 이딸로 9시 30분 테르미니 역에서 출발 -> 나폴리 역(Stazione di Napoli Centrale) 도착 
 - 나폴리 피자 [다 미켈레 - L'Antica Pizzeria da Michele](https://maps.app.goo.gl/Qrbwfv3UwF3h34rv5)
