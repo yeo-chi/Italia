@@ -2,7 +2,7 @@
 
 ### **🛬 Day 1 - 11/13 (목) [로마 도착]**
 
-(https://maps.app.goo.gl/mRfp4cLq622keiMX8)
+[구글지도](https://maps.app.goo.gl/mRfp4cLq622keiMX8)
 
 - 저녁 18시 55분 도착 후 테르미니역 으로 이동
 - 숙박
@@ -12,11 +12,12 @@
 
 ### **🏛️ Day 2 - 11/14 (금) [바티칸 + 야경 투어]**
 
-(https://maps.app.goo.gl/MZvUfviYB4xpwqaf8)
+[구글지도](https://maps.app.goo.gl/vXTzUAnx2KTPbSDN6)
 
 - 오전
     - 바티칸 패스트 트랙 투어 - https://experiences.myrealtrip.com/products/3415360
-    - 집합장소: [OKAIDI ROMA OTTAVIANO](https://maps.app.goo.gl/rBV15PDZwYgfBoP27)
+    - 집합장소: [OKAIDI ROMA OTTAVIANO](https://maps.app.goo.gl/rBV15PDZwYgfBoP27) - 택시로 이동
+    - 인당 45유로씩 필요함
 - 저녁 (18시 50분)
     - 로마 야경투어 - 미정
 - 숙박
@@ -26,16 +27,17 @@
 
 ### **🍕 Day 3 - 11/15 (토) [로마 시내 투어]**
 
-(https://maps.app.goo.gl/FNLqPaCLJgrzZSZ88)
+[구글지도](https://maps.app.goo.gl/kc8HsUPnhUEmo3pr9)
+[시내투어1 - 콜로세움  ~ 점심 식사](https://maps.app.goo.gl/nS5FySMpmrK8n7JQ9)
+[시내투어2 - 점심 식사  ~ 보르게세 공원](https://maps.app.goo.gl/e1HWnCaztW78Gag56)
 
 - 트레비분수 (Trevi Fountain, Piazza di Trevi) (만약 새벽 일찍 나온다면)
 - 오전 식사 : ???
-- 콜로세움 (Colosseum)
+- 콜로세움 (Colosseum) - 9시에 입장 (8시 30분까지 줄서기)
 - 콘스탄티누스 개선문 (Arco di Costantino)
-- 포리 임페리알리 제국로 (Fori Imperiali)
-- 포로 로마노 (Foro Romano)
 - 팔라티노 언덕 (Colle Palatino)
-- 보르게세 공원 (Galleria Borghese)
+- 포로 로마노 (Foro Romano)
+- 포리 임페리알리 제국로 (Fori Imperiali)
 - 캄피톨리오 언덕 (Piazza Campidoglio)
 - 베네치아 광장 (Piazza Venezia)
 - 판테온 신전 (Pantheon)
@@ -43,6 +45,8 @@
 - 트레비분수 (Trevi Fountain, Piazza di Trevi)
 - 스페인계단 (Spanish Steps)
 - 스페인광장 (Piazza di Spagna)
+- 보르게세 공원 (Villa Borghese)
+- 쇼핑
 - 저녁식사 : [Cacio E Pepe까르보나라 Osteria del Velodromo Vecchio](https://maps.app.goo.gl/DNqzRjc3ka8o788Q6)
 - 스페어 : [트러플바게뜨 Truffle Crostino / CiPASSO](https://maps.app.goo.gl/xMpnCsqEaPeMJ94s8)
 
