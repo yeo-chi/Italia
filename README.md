@@ -93,6 +93,7 @@
 ---
 
 ### **🚤 Day 6 - 11/18 (화) [살레르노에서 피렌체 이동]**
+[구글지도](https://maps.app.goo.gl/UuKAzY7Fuf7w54Uj6?g_st=ac)
 
 - 오전
     - 아말피 -> 살레르노 이동 (Uber or 패리 or 전날 끊은 SITA버스로 돌아오기)
