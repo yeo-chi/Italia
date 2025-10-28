@@ -115,15 +115,16 @@
 ---
 
 ### **🎨 Day 7 - 11/19 (수) [피사관광 스냅 촬영]**
+[구글지도](https://maps.app.goo.gl/ZTkm7QP8xfXx7Fax8)
 
 - 오전 (피사 이동)
-  - 기울어진 탑
-  - 두오모 성당
+  - 기울어진 탑 (Torre di Pisa)
+  - 두오모 성당 (Piazza del Duomo)
   - 점심 메뉴 : ????
 - 오후 (피렌체 이동)
   - 스냅 촬영 : [여행일기](https://experiences.myrealtrip.com/products/3427150)
     - 만나는 장소 : 산티시마 안눈치아타광장(P.za della SS. Annunziata)
-    - 미켈란젤로 광장 (베키오 다리 지나서 택시?)
+    - 미켈란젤로 광장 (베키오 다리 지나서 택시?) (Piazzale Michelangelo)
     - 미켈란젤로 언덕
   - 휴식 및 식사
     - 저녁 메뉴 : [티본 스테이크 Trattoria Verdi Firenze](https://maps.app.goo.gl/z9JoDTjfgF8eZfmHA)
