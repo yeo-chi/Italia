@@ -99,7 +99,7 @@
     - 아말피 -> 살레르노 이동 (Uber or 패리 or 전날 끊은 SITA버스로 돌아오기)
     - 살레르노 -> 피렌체 이동 (이딸로 8시18분 기차)
 - 오후
-    - 피렌체 체크인 [Air BnB](https://www.airbnb.co.kr/rooms/49709468?viralityEntryPoint=1&unique_share_id=53CE79B2-DB07-40E6-8054-1DB2CCFB2724&slcid=3f43bbdeea62490a8df78c3749936bbe&s=76&adults=1&slug=iJAwdzh7&source_impression_id=p3_1760966509_P3pURAUT9nPXK8iq)
+    - 피렌체 체크인 [Air BnB](https://www.airbnb.co.kr/rooms/49709468?viralityEntryPoint=1&unique_share_id=53CE79B2-DB07-40E6-8054-1DB2CCFB2724&slcid=3f43bbdeea62490a8df78c3749936bbe&s=76&adults=1&slug=iJAwdzh7&source_impression_id=p3_1760966509_P3pURAUT9nPXK8iq) [구글지도](https://maps.app.goo.gl/WVL5vdgxAn4yS9LN9) 
     - 중앙 시장
       - 점심 간식 : [곱창 버거 Da Nerbone](https://maps.app.goo.gl/jqrBUVFX2SxfWpkQ9)
       - 점심 메뉴 : [레스토랑 Antico Ristorante Paoli 1827](https://maps.app.goo.gl/xoz9r75k7qVmRHh27)
