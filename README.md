@@ -132,14 +132,17 @@
 ---
 
 ### **🏰 Day 8 - 11/20 (목) [피렌체에서 베네치아로]**
-
-- 오전 
-  - 더 몰 아울렛 쇼핑
+(구글지도)[https://maps.app.goo.gl/2QJv91pAajeqAm5T8]
+- 오전
+  - 쇼핑을 위해 버스정류장으로 이동 (Florence Piazzale Montelungo) (도보로 이동) 
+  - 더 몰 아울렛 쇼핑 (예약 해야함)
+  - 점심?
 - 오후
-  - 베네치아 이동
-  - 숙소 : [더 타임 베니스](https://maps.app.goo.gl/zPw6qVD2rJs9ZePB8)
-  - 리알토 다리
+  - 베네치아 이동 (MVenezia Santa Lucia) 이딸로 이용, 예약해야함
+  - 숙소 : [더 타임 베니스](https://maps.app.goo.gl/zPw6qVD2rJs9ZePB8) (도보로 이동)
+  - 리알토 다리 (Ponte di Rialto)
   - 골목길 사진 촬영
+  - 저녁?
 
 ---
 
