@@ -155,26 +155,40 @@
       - 이동방법
         - 숙소에서 F.te Nove "A" 까지 도보 이동 [물보면서 걷기](https://maps.app.goo.gl/5dTSPm3kynHRNaME7)
         - F.te Nove "A" 에서 Burano "C"로 수상버스를 타고 이동 (12번 버스) [경로](https://maps.app.goo.gl/Chczg4gxgmk9nfXb6)
+    - 부라노 종탑 (Chiesa di San Martino)
     - 무라노섬 이동
       - Burano "C" 에서 12번 수상버스를 타고 Murano Faro "B"로 이동
-    - 부라노 종탑
 - 베네치아 본섬
 - 저녁식사 : [Corte Sconta](https://maps.app.goo.gl/WjEXmJds9CCAYeQJ6)
 
 ---
 
 ### **🎁 Day 10 - 11/22 (토) [베로나 당일치기]**
+[구글지도](https://maps.app.goo.gl/hoaGpa12xkQsM7hr6)
+[도보 1 - 누오바 역에서 아르케 스칼리거 까지](https://maps.app.goo.gl/jfESotZ4YoWqBMZ36)
+[도보 2 - 아르케 스칼리거에서 다시 역까지](https://maps.app.goo.gl/GirSkNKrcdpv8BR26)
 
-- 베네치아 → 브라광장
-- 베로나 카드 구매하기
-    - 아레나
-    - 줄리엣의 집
-    - 에르베 광장
-    - 피에트라 다리
-    - 산 피에트로 성
-- 브라광장 → 베네치아
-    - 말고기가 유명
-
+- 베로나로
+  - 베네치아 산타루치아 역 -> 베로나 누오바 역으로 (Verona Porta Nuova) : 당일 발권해도 괜찮을듯
+- 베로나 카드 구매하기 - 구매 함.
+  - 라피다리오 마페이아노 박물관 (Museo Lapidario Maffeiano) 고대 석조 조각과 비문 컬렉션
+  - IAT Verona Tourist Information Office 에서 실물카드로 교환하기 + 신분증필요함(여권)
+  - 베로나 아레나 (Arena di Verona)
+  - 줄리엣의 집 (Casa di Giulietta)
+  - 람베르트 기념관 (Torre dei Lamberti) 시내를 한 눈에 볼 수있음
+  - 갤러리아 다르테 모데르나 알 팔라초 달라라지오네 (Palazzo della Ragione) 여기 근처 미술관
+  - 에르베 광장 (Piazza Erbe)
+  - 시뇨리아 광장 (Piazza dei Signori)
+  - 아르케 스칼리거 (Torre dei Lamberti) 스칼리거 가문의 무덤 휴업중인데 입구에서 사진?
+  - 점심식사 [오스테리아 알 두카 - Osteria al Duca](https://maps.app.goo.gl/vahsFix3srYYcJYu7) 말고기가 유명
+  - 바실리카 디 산 아나스타샤 (Basilica di Sant' Anastasia) 교회
+  - 콤프레소 델 두오모 (Complesso del Duomo di Verona) 베로나 성당
+  - 피에트라 다리 (Ponte Pietra)
+  - 테아트로 로마노 (Museo Archeologico al Teatro Romano) - 꼭 안가도됨
+  - 산 피에트로 성 (Castel San Pietro)
+  - 키에사 디 산 페르모 (Chiesa di San Fermo Maggiore) 교회
+  - 식료품점 (Sezàn by Oro Verde - La Bottega) 오빠 오일사기
+  - 베로나 누오바 역으로 (Verona Porta Nuova) → 베네치아 산타루치아 역
 ---
 
 ### **🛬 Day 11 - 11/23 (일) [돌로미티 당일투어] **
