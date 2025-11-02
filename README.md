@@ -132,7 +132,7 @@
 ---
 
 ### **🏰 Day 8 - 11/20 (목) [피렌체에서 베네치아로]**
-(구글지도)[https://maps.app.goo.gl/2QJv91pAajeqAm5T8]
+[구글지도](https://maps.app.goo.gl/2QJv91pAajeqAm5T8)
 - 오전
   - 쇼핑을 위해 버스정류장으로 이동 (Florence Piazzale Montelungo) (도보로 이동) 
   - 더 몰 아울렛 쇼핑 (예약 해야함)
@@ -147,9 +147,16 @@
 ---
 
 ### **🛍️ Day 9 - 11/21 (금) [부라노 무라노섬 투아]**
+[구글지도](https://maps.app.goo.gl/b413iTrKW5DdLWZ29)
 
 - 부라노 섬 무라노 섬 투어 오후까지 있어야 할 듯
     - 부라노 섬 스냅 → [베네베네 스냅](https://experiences.myrealtrip.com/products/3859831)
+      - 미팅장소 : 부라노섬 수상버스 "C"정거장 앞
+      - 이동방법
+        - 숙소에서 F.te Nove "A" 까지 도보 이동 [물보면서 걷기](https://maps.app.goo.gl/5dTSPm3kynHRNaME7)
+        - F.te Nove "A" 에서 Burano "C"로 수상버스를 타고 이동 (12번 버스) [경로](https://maps.app.goo.gl/Chczg4gxgmk9nfXb6)
+    - 무라노섬 이동
+      - Burano "C" 에서 12번 수상버스를 타고 Murano Faro "B"로 이동
     - 부라노 종탑
 - 베네치아 본섬
 - 저녁식사 : [Corte Sconta](https://maps.app.goo.gl/WjEXmJds9CCAYeQJ6)
