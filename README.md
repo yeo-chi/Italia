@@ -84,6 +84,7 @@
 - 레몬그라스 젤라또 맛보기
 - 점심식사 : ???
   - **추천: Ristorante Marina Grande 또는 Lido Azzurro 메뉴: 아말피식 해산물 파스타(+해안 뷰 감상)**
+  - (Pizzeria Donna Stella)[https://maps.app.goo.gl/soA6PMSxmmPy944e7?g_st=com.google.maps.preview.copy] 비밀이야 추천 피자
 - 아말피 -> 포지타노 이동 (SITA버스 왕복티켓으로 끊기)
 - 포지타노 관광
 - 스피아지아 그란데 해변(Spiaggia Grande)
