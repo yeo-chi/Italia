@@ -21,6 +21,7 @@
 	   -	점심 or 간식 : 메뉴 : 바게뜨 칠리소스 기반 매콤한 맛(ciro) 양 많음 2인 1개 추천(맛있으면 1개 포장?)[음식점](https://maps.app.goo.gl/GLLAhxDMzEEDMKVs6?g_st=com.google.maps.preview.copy)
 - 저녁 (18시 50분)
     - 로마 야경투어 - 미정
+    - 저녁 : 메뉴 : 소꼬리찜, 양갈비, 까르보나라 파스타 [음식점] (https://maps.app.goo.gl/BmdC6T5Lfa9wPTnx6?g_st=com.google.maps.preview.copy)
 - 숙박
     - iQ 호텔 (https://maps.app.goo.gl/8z9D8Zhcty18vu2p8)
 
