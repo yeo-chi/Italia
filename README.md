@@ -18,6 +18,7 @@
     - 바티칸 패스트 트랙 투어 - https://experiences.myrealtrip.com/products/3415360
     - 집합장소: [OKAIDI ROMA OTTAVIANO](https://maps.app.goo.gl/rBV15PDZwYgfBoP27) - 택시로 이동
     - 인당 45유로씩 필요함
+	   -	점심 or 간식 : 메뉴 : 바게뜨 칠리소스 기반 매콤한 맛(ciro) 양 많음 2인 1개 추천(맛있으면 1개 포장?)[음식점](https://maps.app.goo.gl/GLLAhxDMzEEDMKVs6?g_st=com.google.maps.preview.copy)
 - 저녁 (18시 50분)
     - 로마 야경투어 - 미정
 - 숙박
