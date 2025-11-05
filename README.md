@@ -34,7 +34,7 @@
 [시내투어2 - 점심 식사  ~ 보르게세 공원](https://maps.app.goo.gl/e1HWnCaztW78Gag56)
 
 - 트레비분수 (Trevi Fountain, Piazza di Trevi) (만약 새벽 일찍 나온다면)
-- 오전 식사, 카페 : 호텔조식, [타짜도로커피(https://maps.app.goo.gl/oz1WthotdwPu9BBA8?g_st=com.google.maps.preview.copy)
+- 오전 식사, 카페 : 호텔조식, [타짜도로커피](https://maps.app.goo.gl/oz1WthotdwPu9BBA8?g_st=com.google.maps.preview.copy)
 - 콜로세움 (Colosseum) - 9시에 입장 (8시 30분까지 줄서기)
 - 콘스탄티누스 개선문 (Arco di Costantino)
 - 팔라티노 언덕 (Colle Palatino)
