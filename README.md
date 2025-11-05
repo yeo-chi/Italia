@@ -66,6 +66,7 @@
 - 나폴리 항구 (Port of Naples)
 - 산텔모 성 (Castel Sant'Elmo)
 - 나폴리 간식 [피자튀김 - Con mollica o senza da Donato](https://maps.app.goo.gl/G5GJgnnayBuPePJB6)
+- 젤라또(오후9시까지 운영) - [Mozzelato](https://maps.app.goo.gl/HWQ3iyire5JJPTqJA?g_st=com.google.maps.preview.copy)
 - 저녁식사 : ????
 - 돌아오는 거 : 이딸로 18시 35분 -> 19시 46분 로마 도착
 ---
